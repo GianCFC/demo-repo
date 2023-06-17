@@ -1,8 +1,8 @@
 # demo-repo
-##Descripcion
+## Descripcion
 no se que decir 
 OHSADFTGHNJH,KJKJ,
-###autor
+### autor
 [javi](https://bit.institute)
-####fechas
+#### fechas
 16/06/23
